@@ -1,0 +1,11 @@
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/bin/Debug/netcoreapp3.1/NestedRepetitionForLoop
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/bin/Debug/netcoreapp3.1/NestedRepetitionForLoop.deps.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/bin/Debug/netcoreapp3.1/NestedRepetitionForLoop.runtimeconfig.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/bin/Debug/netcoreapp3.1/NestedRepetitionForLoop.runtimeconfig.dev.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/bin/Debug/netcoreapp3.1/NestedRepetitionForLoop.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/bin/Debug/netcoreapp3.1/NestedRepetitionForLoop.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/obj/Debug/netcoreapp3.1/NestedRepetitionForLoop.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/obj/Debug/netcoreapp3.1/NestedRepetitionForLoop.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/obj/Debug/netcoreapp3.1/NestedRepetitionForLoop.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/obj/Debug/netcoreapp3.1/NestedRepetitionForLoop.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/NestedRepetitionForLoop/obj/Debug/netcoreapp3.1/NestedRepetitionForLoop.pdb

@@ -1,0 +1,11 @@
+/Users/anguyen/Projects/CSharp/Repetition/bin/Debug/netcoreapp3.1/Repetition
+/Users/anguyen/Projects/CSharp/Repetition/bin/Debug/netcoreapp3.1/Repetition.deps.json
+/Users/anguyen/Projects/CSharp/Repetition/bin/Debug/netcoreapp3.1/Repetition.runtimeconfig.json
+/Users/anguyen/Projects/CSharp/Repetition/bin/Debug/netcoreapp3.1/Repetition.runtimeconfig.dev.json
+/Users/anguyen/Projects/CSharp/Repetition/bin/Debug/netcoreapp3.1/Repetition.dll
+/Users/anguyen/Projects/CSharp/Repetition/bin/Debug/netcoreapp3.1/Repetition.pdb
+/Users/anguyen/Projects/CSharp/Repetition/obj/Debug/netcoreapp3.1/Repetition.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/Repetition/obj/Debug/netcoreapp3.1/Repetition.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/Repetition/obj/Debug/netcoreapp3.1/Repetition.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/Repetition/obj/Debug/netcoreapp3.1/Repetition.dll
+/Users/anguyen/Projects/CSharp/Repetition/obj/Debug/netcoreapp3.1/Repetition.pdb
